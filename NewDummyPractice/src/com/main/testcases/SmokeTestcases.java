@@ -6,8 +6,13 @@ public class SmokeTestcases {
 		
 	}
 	
+
 	public void testMeNewBranch() {
 		
+	}
+	
+	public void testMeNewUser(){
+
 	}
 
 }
